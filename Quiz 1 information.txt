@@ -1,0 +1,72 @@
+Dear students,
+
+This announcement is to clarify the structure, expectations, and permitted materials for Quiz 1.
+
+Date and Duration
+Quiz 1 will take place on Tuesday, June 16, 2026, at 4:00 PM. The duration of the quiz is 1 hour and 20 minutes.
+
+Quiz Format
+Quiz 1 is a written, paper-based quiz. It will include MATLAB short-answer questions, code-reading questions, output-prediction questions, indexing questions, and code-completion questions.
+
+The quiz is based on the MATLAB concepts that we have covered in lectures, tutorials, labs, homework, and posted course materials.
+
+Permitted Materials
+Students may not use calculators, phones, laptops, electronic devices, notes, textbooks, or online resources during the quiz.
+
+There will not be a separate reference sheet for Quiz 1. Any information that is necessary for a specific question will be provided directly within that question.
+
+Topics to Review
+Students should review the MATLAB concepts covered in the course, including:
+
+    MATLAB variable names and basic syntax,
+
+    logical expressions and logical operators,
+
+    determining the value and class of MATLAB expressions,
+
+    basic MATLAB functions covered in class,
+
+    formatted printing using fprintf,
+
+    vectors and the colon operator,
+
+    row vectors, column vectors, transpose, and concatenation,
+
+    vector and matrix indexing,
+
+    replacing selected vector or matrix elements,
+
+    identifying MATLAB statements that produce an error,
+
+    basic matrix operations and solving simple systems of equations,
+
+    logical operations, conditional indexing, and selecting data based on conditions,
+
+    sorting and filtering data,
+
+    string arrays, string comparisons, and basic string operations,
+
+    simple environmental and geological engineering examples similar to those practiced in class, tutorials, labs, and homework.
+
+This list is intended to help students focus their review. Students should not expect the quiz to provide a separate list of MATLAB commands, definitions, or explanations.
+
+During the Quiz
+Please read each question carefully before answering. Show your work clearly where required, and write your final answers in the spaces provided.
+
+If a MATLAB statement produces an error, write ERROR.
+
+If you have a question during the quiz, please raise your hand quietly and wait for the instructor or a TA to come to you. The teaching team may clarify the wording of a question, but cannot answer “how do I solve this?” or debugging-style questions.
+
+If something remains unclear, make a reasonable assumption, write your assumption on the quiz booklet, and complete the question. Your assumption will be considered during marking.
+
+When You Arrive
+Please find a seat with a quiz booklet, do not move the quiz booklet to a different seat, and do not open the quiz until instructed to do so.
+
+Please check that you have only one booklet in front of you. Take out a writing utensil and fill in the front page before the quiz begins.
+
+All phones, laptops, calculators, notes, textbooks, and other materials must be put away and stored under your desk.
+
+Please do not talk to other students during the quiz.
+
+Best regards,
+Jaber Taheri Shakib
